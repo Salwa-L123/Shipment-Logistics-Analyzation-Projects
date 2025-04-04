@@ -1,5 +1,4 @@
-ID,Delivery_person_ID,Delivery_person_Age,Delivery_person_Ratings,Restaurant_latitude,Restaurant_longitude,Delivery_location_latitude,Delivery_location_longitude,Order_Date,Time_Orderd,Time_Order_picked,Weatherconditions,Road_traffic_density,Vehicle_condition,Type_of_order,Type_of_vehicle,multiple_deliveries,Festival,City
-0x2318 ,COIMBRES13DEL01 ,NaN ,NaN ,11.003669,76.976494,11.043669,77.016494,30-03-2022,NaN ,15:05:00,conditions NaN,NaN ,3,Drinks ,electric_scooter ,1,No ,Metropolitian 
+ID,Delivery_person_ID,Delivery_person_Age,Delivery_person_Ratings,Restaurant_latitude,Restaurant_longitude,Delivery_location_latitude,Delivery_location_longitude,Order_Date,Time_Ordered,Time_Order_picked,Weather_conditions,Road_traffic_density,Vehicle_condition,Type_of_order,Type_of_vehicle,multiple_deliveries,Festival,City
 0x3474 ,BANGRES15DEL01 ,28,4.6,12.975377,77.696664,13.085377,77.806664,29-03-2022,20:30:00,20:35:00,conditions Windy,Jam ,0,Snack ,motorcycle ,1,No ,Metropolitian 
 0x9420 ,JAPRES09DEL03 ,23,4.5,26.911378,75.789034,27.001378,75.879034,10-03-2022,19:35:00,19:45:00,conditions Stormy,Jam ,0,Drinks ,motorcycle ,1,No ,Metropolitian 
 0x72ee ,JAPRES07DEL03 ,21,4.8,26.766536,75.837333,26.856536,75.927333,02-04-2022,17:15:00,17:20:00,conditions Fog,Medium ,1,Meal ,scooter ,1,No ,Metropolitian 
